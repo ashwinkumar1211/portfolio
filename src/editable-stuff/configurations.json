@@ -2,44 +2,32 @@
     "backgroundType": "gradient",
     "plainBackgroundMode": "daylight",
     "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Anglesvar",
-    "MiddleName": "Chandrasekar",
-    "LastName": "Appiya",
-    "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
+    "FirstName": "Ashwinkumar",
+    "MiddleName": "",
+    "LastName": "Manimaran",
+    "devDesc": "| Computer Science Engineer | Programmer | Full Stack Developer | Data Engineer ",
     "icons": [{
             "id": 0,
             "image": "fa-github",
-            "url": "https://github.com/anglesvar",
+            "url": "https://github.com/ashwinkumar1211",
             "style": "socialicons"
-        },
+        },              
         {
             "id": 1,
-            "image": "fa-facebook",
-            "url": "https://www.facebook.com/anglesvar.cheenu",
-            "style": "socialicons"
-        },
-        {
-            "id": 2,
-            "image": "fa-instagram",
-            "url": "https://www.instagram.com/anglesvar",
-            "style": "socialicons"
-        },
-        {
-            "id": 3,
             "image": "fa-linkedin",
-            "url": "https://www.linkedin.com/in/anglesvar-chandrasekar-appiya-24338a110/",
+            "url": "https://linkedin.com/in/ashwin-kumar-m1211",
             "style": "socialicons"
         }
     ],
     "aboutHeading": "About Me",
-    "aboutDescription": "I'm Anglesvar Chandrasekar Appiya, a B.Tech Graduate from India. I'm a Developer with 2+ years of experience in Web Application development. I’m a Software Engineer at Chubb India. I'm always in hunger for new inspiring technologies.❤",
+    "aboutDescription": "I'm Ashwinkumar Manimaran, a B.E CSE Graduate from India. I'm a Passionate Developer working at Cognizant Technologies. I love to code and build apps",
     "projectHeading": "My Works",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "anglesvar",
-    "gitHubQuerry": "/repos?sort=created&direction=desc",
-    "projectsLength": 4,
+    "gitHubUsername": "ashwinkumar1211",
+    "gitHubQuerry": "/repos?sort=created&direction=asc",
+    "projectsLength": 6,
     "showNavigationbar": true,
-    "resumeLink": "https://angle-personal.s3.ap-south-1.amazonaws.com/ANGLESVAR's+Resume.pdf",
-    "mobileNumber": "9994578216",
-    "emailId": "anglesvar.cheenu98@gmail.com"
+    "resumeLink": "https://drive.google.com/file/d/1jetGXAYETe2eNNdTSApVWKoowK_JWjd3/view?usp=sharing",
+    "mobileNumber": "9500212015",
+    "emailId": "ashwinak1211@gmail.com"
 }

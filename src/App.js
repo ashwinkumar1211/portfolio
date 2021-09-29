@@ -7,7 +7,6 @@ import { showNavigationbar } from "./editable-stuff/configurations.json";
 import MainBody from "./components/home/MainBody";
 import AboutMe from "./components/home/AboutMe";
 import Project from "./components/home/Project";
-import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Contact from "./components/Contact";
 const Home = () => {
@@ -23,8 +22,7 @@ const Home = () => {
 
 const App = () => ( 
     <BrowserRouter basename = { process.env.PUBLIC_URL + "/" } > { showNavigationbar && < Navbar /> } 
-        <Route path = "/" exact component = { Home }/> 
-        <Footer />
+        <Route path = "/" exact component = { Home }/>         
     </BrowserRouter>
 );
 
